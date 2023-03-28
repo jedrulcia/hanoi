@@ -1,0 +1,16 @@
+D:\GIT\Hanoi\bin\Debug\net5.0\Hanoi.exe
+D:\GIT\Hanoi\bin\Debug\net5.0\Hanoi.deps.json
+D:\GIT\Hanoi\bin\Debug\net5.0\Hanoi.runtimeconfig.json
+D:\GIT\Hanoi\bin\Debug\net5.0\Hanoi.runtimeconfig.dev.json
+D:\GIT\Hanoi\bin\Debug\net5.0\Hanoi.dll
+D:\GIT\Hanoi\bin\Debug\net5.0\Hanoi.pdb
+D:\GIT\Hanoi\obj\Debug\net5.0\Hanoi.csproj.AssemblyReference.cache
+D:\GIT\Hanoi\obj\Debug\net5.0\Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\Hanoi\obj\Debug\net5.0\Hanoi.AssemblyInfoInputs.cache
+D:\GIT\Hanoi\obj\Debug\net5.0\Hanoi.AssemblyInfo.cs
+D:\GIT\Hanoi\obj\Debug\net5.0\Hanoi.csproj.CoreCompileInputs.cache
+D:\GIT\Hanoi\obj\Debug\net5.0\Hanoi.dll
+D:\GIT\Hanoi\obj\Debug\net5.0\refint\Hanoi.dll
+D:\GIT\Hanoi\obj\Debug\net5.0\Hanoi.pdb
+D:\GIT\Hanoi\obj\Debug\net5.0\Hanoi.genruntimeconfig.cache
+D:\GIT\Hanoi\obj\Debug\net5.0\ref\Hanoi.dll
