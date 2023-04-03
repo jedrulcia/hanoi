@@ -1,5 +1,8 @@
 Hi. This is my C# code that helps solving the Tower of Hanoi game with the lowest possible number of moves. User just needs to type in the number of the moves and the instruction will pop.
 
+
+
+
 static void Main(string[] args)
         {
             Console.Write("Type the number of the disks: ");
