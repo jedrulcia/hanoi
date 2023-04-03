@@ -1,17 +1,6 @@
 Hi. This is my C# code that helps solving the Tower of Hanoi game with the lowest possible number of moves. User just needs to type in the number of the moves and the instruction will pop.
 
-
-
-
-using System;
-using System.Numerics;
-using System.Security.Cryptography.X509Certificates;
-
-namespace Hanoi
-{
-    internal class Program
-    {
-        static void Main(string[] args)
+static void Main(string[] args)
         {
             Console.Write("Type the number of the disks: ");
             int n = Convert.ToInt32(Console.ReadLine());
@@ -81,6 +70,3 @@ namespace Hanoi
             if (n == 0) return (ta, tb);
             return (tb, ta);
         }
-    }
-}
-
